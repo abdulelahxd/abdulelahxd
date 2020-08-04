@@ -10,12 +10,12 @@
 
 <br />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdulelahxd&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdulelahxd&show_icons=true&theme=tokyonight&text_color=ebebf5)
 
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulelahxd)](https://github.com/abdulelahxd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulelahxd&show_icons=true&theme=tokyonight&text_color=9797e8)](https://github.com/abdulelahxd/github-readme-stats&)
 
 [twitter]: https://twitter.com/abdulelah__k
 [instagram]: https://instagram.com/abdulelahxd
