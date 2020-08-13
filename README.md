@@ -23,8 +23,11 @@
 
 
 <br />
+
 ![Profile Views](https://komarev.com/ghpvc/?username=abdulelahxd&color=blueviolet)
+
 <br />
+
 ### Connect with me:
 
 [<img align="left" alt="abdulelahxd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
