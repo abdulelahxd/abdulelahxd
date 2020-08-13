@@ -23,7 +23,7 @@
 
 
 <br />
-![Profile views](https://komarev.com/ghpvc/?username=abdulelahxd&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=abdulelahxd&color=red)
 
 ### Connect with me:
 
