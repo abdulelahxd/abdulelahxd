@@ -22,9 +22,11 @@
 [linkedin]: https://www.linkedin.com/in/abdulelahkassara/
 
 
-<br />
-[comment]: <> (![Profile Views](https://komarev.com/ghpvc/?username=abdulelahxd&color=blueviolet))
 
+<!---
+<br />
+![Profile Views](https://komarev.com/ghpvc/?username=abdulelahxd&color=blueviolet)
+-->
 <br />
 
 ### Connect with me:
