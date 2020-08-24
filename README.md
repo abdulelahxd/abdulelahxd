@@ -3,7 +3,6 @@
 ## I'm a passionate Developer!
 - :mortar_board: I’m currently studying web development at ASAC
 - :computer: I’m currently learning python & javaScript :computer:
-- :boom: I’m looking to do a lot of projects to improve my skilks
 - :star: 2020 Goals: Contribute to projects as much as possible
 - :pushpin: fact about me: I can solve rubik's cube
 
