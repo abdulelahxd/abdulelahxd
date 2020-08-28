@@ -8,6 +8,8 @@
 
 ![gify](https://media3.giphy.com/media/11ZSwQNWba4YF2/giphy.gif?cid=ecf05e47bax1oq3kgoq9cpypss5wegr3t96czwb30hn4r458&rid=giphy.gif)
 
+<img src="https://media3.giphy.com/media/11ZSwQNWba4YF2/giphy.gif?cid=ecf05e47bax1oq3kgoq9cpypss5wegr3t96czwb30hn4r458&rid=giphy.gif" alt="gify" width=100px height=100px>
+
 <br />
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdulelahxd&show_icons=true&theme=tokyonight&text_color=ebebf5)
