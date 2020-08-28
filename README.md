@@ -4,7 +4,9 @@
 - :mortar_board: I’m currently studying web development at ASAC
 - :computer: I’m currently learning python & javaScript :computer:
 - :star: 2020 Goals: Contribute to projects as much as possible
+- :grey_question: Ask me about anything in the [issues page](https://github.com/issues)
 - :pushpin: fact about me: I can solve rubik's cube
+- 😄 Pronouns: he, him
 
 <img src="https://media3.giphy.com/media/11ZSwQNWba4YF2/giphy.gif?cid=ecf05e47bax1oq3kgoq9cpypss5wegr3t96czwb30hn4r458&rid=giphy.gif" alt="gify" width=100px >
 
