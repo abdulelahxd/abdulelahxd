@@ -6,7 +6,7 @@
 - :star: 2020 Goals: Contribute to projects as much as possible
 - :pushpin: fact about me: I can solve rubik's cube
 
-<img src="https://media3.giphy.com/media/11ZSwQNWba4YF2/giphy.gif?cid=ecf05e47bax1oq3kgoq9cpypss5wegr3t96czwb30hn4r458&rid=giphy.gif" alt="gify" width=100px">
+<img src="https://media3.giphy.com/media/11ZSwQNWba4YF2/giphy.gif?cid=ecf05e47bax1oq3kgoq9cpypss5wegr3t96czwb30hn4r458&rid=giphy.gif" alt="gify" width=100px ">
 
 <br />
 
