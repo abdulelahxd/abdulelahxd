@@ -28,7 +28,7 @@
 -->
 <br />
 
-### Connect with me:
+### Be my friend:
 
 [<img align="left" alt="abdulelahxd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="abdulelahxd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
