@@ -2,7 +2,7 @@
 
 ## I'm a passionate Developer!
 - :mortar_board: I’m currently studying web development at ASAC
-- :computer: I’m currently learning python & javaScript :computer:
+- :computer: I’m currently learning javaScript :computer:
 - :star: 2020 Goals: Contribute to projects as much as possible
 - :grey_question: Ask me about anything in the [issues page](https://github.com/issues)
 - :pushpin: fact about me: I can solve rubik's cube
