@@ -1,13 +1,13 @@
 ### Hi there, I'm [abdulelah](https://abdulelahxd.github.io/My-Portfolio/) 
 
-## I'm a Front-end Developer!
+## I'm a Front-end Developer
 - :mortar_board: I’m currently studying web development at ASAC
 - :computer: I’m currently learning javaScript :computer:
 - :star: 2020 Goals: create a lot of websites
 - :grey_question: Ask me about anything in the [issues page](https://github.com/issues)
 - :pushpin: fact about me: I can solve rubik's cube
 - 😄 Pronouns: he, him
-- :octocat: [Personal website](https://abdulelah-resume.netlify.app/)
+- :octocat: [Personal website](https://abdulelah-cv.netlify.app/)
 
 <img src="https://media3.giphy.com/media/11ZSwQNWba4YF2/giphy.gif?cid=ecf05e47bax1oq3kgoq9cpypss5wegr3t96czwb30hn4r458&rid=giphy.gif" alt="gify" width=100px >
 
