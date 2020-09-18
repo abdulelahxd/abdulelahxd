@@ -3,7 +3,7 @@
 ## I'm a passionate Front-end Developer!
 - :mortar_board: I’m currently studying web development at ASAC
 - :computer: I’m currently learning javaScript :computer:
-- :star: 2020 Goals: Contribute to projects as much as possible
+- :star: 2020 Goals: create a lot of websites
 - :grey_question: Ask me about anything in the [issues page](https://github.com/issues)
 - :pushpin: fact about me: I can solve rubik's cube
 - 😄 Pronouns: he, him
