@@ -1,6 +1,6 @@
 ### Hi there, I'm [abdulelah](https://abdulelahxd.github.io/My-Portfolio/) 
 
-## I'm a passionate Front-end Developer!
+## I'm a Front-end Developer!
 - :mortar_board: I’m currently studying web development at ASAC
 - :computer: I’m currently learning javaScript :computer:
 - :star: 2020 Goals: create a lot of websites
