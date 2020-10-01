@@ -27,7 +27,7 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-e67e22?style=flat-square&logo=git&logoColor=white" />
 </li>
 </ul>
-<p>https://img.shields.io/github/followers/abdulelahxd?style=social</p>
+<img alt="followers" src="https://img.shields.io/github/followers/abdulelahxd?style=social"/>
   https://img.shields.io/github/stars/abdulelahxd?style=social
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdulelahxd&show_icons=true&theme=tokyonight&text_color=ebebf5)
