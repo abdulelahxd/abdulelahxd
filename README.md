@@ -5,7 +5,7 @@
 - :mortar_board: I’m currently studying web development at ASAC
 -->
 - :computer: I’m currently learning node :computer:
-- :star: 2020 Goals: create amazing UI templates
+- :star: 2020 Goals: create amazing UIs templates
 - :grey_question: Ask me about anything in the [issues page](https://github.com/issues)
 - :pushpin: fact about me: I can solve rubik's cube
 - 😄 Pronouns: he, him
