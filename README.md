@@ -1,9 +1,11 @@
 ### Hi there, I'm [abdulelah](https://abdulelahxd.github.io/My-Portfolio/) 
 
 ## I'm a Front-end Developer
+<!---
 - :mortar_board: I’m currently studying web development at ASAC
-- :computer: I’m currently learning javaScript :computer:
-- :star: 2020 Goals: create a lot of websites
+-->
+- :computer: I’m currently learning node :computer:
+- :star: 2020 Goals: create amazing UI templates
 - :grey_question: Ask me about anything in the [issues page](https://github.com/issues)
 - :pushpin: fact about me: I can solve rubik's cube
 - 😄 Pronouns: he, him
