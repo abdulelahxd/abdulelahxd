@@ -1,6 +1,6 @@
 ### Hi there, I'm [abdulelah](https://abdulelah-cv.netlify.app/) 
 
-## I'm a Front-end Developer
+## I'm a Front-end Developer & designer
 <!---
 - :mortar_board: I’m currently studying web development at ASAC
 -->
