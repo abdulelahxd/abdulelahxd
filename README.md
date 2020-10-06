@@ -1,4 +1,4 @@
-### Hi there, I'm [abdulelah](https://abdulelahxd.github.io/My-Portfolio/) 
+### Hi there, I'm [abdulelah](https://abdulelah-cv.netlify.app/) 
 
 ## I'm a Front-end Developer
 <!---
