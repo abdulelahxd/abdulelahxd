@@ -4,8 +4,8 @@
 <!---
 - :mortar_board: I’m currently studying web development at ASAC
 -->
-- :computer: I’m currently learning node and I'll be designer :computer:
-- :star: 2020 Goals: create amazing UIs templates
+- :computer: I’m currently learning node :computer:
+- :star: 2021 Goals: create amazing UIs templates and I'll be designer
 - :grey_question: Ask me about anything in the [issues page](https://github.com/issues)
 - :pushpin: fact about me: I can solve rubik's cube
 - 😄 Pronouns: he, him
